@@ -1,0 +1,23 @@
+asset_associations:
+    -
+        asset: 0BF310CD-5907-4606-87C1-64EF9002B2F3       # Business license application asset
+        uuid: E29521A1-1607-4557-ACBA-97037D5C83AF
+        entity: Case
+        entity_uuid: A9D57564-8ED9-426D-8C0D-7E4F6F65A17F   # Business license application
+        owner: BusinessUnit
+        owner_uuid: 7e105be4-578d-4a1f-bc04-fd85f3ddcc38    # Finance
+    -
+        asset: A9C8EFF2-7FBC-47B1-BEA2-D42F6DAC7CA0       # Fishing permit application asset
+        uuid: 9E4E7595-177A-4C7B-912E-D2138430786B
+        entity: Case
+        entity_uuid: 2E60E81B-3E8E-4166-B812-EAF363A1F033   # Fishing permit application
+        owner: BusinessUnit
+        owner_uuid: 25b88f35-eb37-4dae-9d89-668151e11a0d    # Administration
+
+prototype:
+    asset: ~
+    uuid: ~
+    entity: ~
+    entity_uuid: ~
+    owner: BusinessUnit
+    owner_uuid: ~
